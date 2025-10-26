@@ -1,4 +1,4 @@
-# Proyecto de Gestión de Inventario (Prueba Técnica)
+# Proyecto de Gestión de Inventario
 
 Esta solución implementa un sistema de gestión de inventario usando una arquitectura de microservicios (.NET), comunicados síncronamente vía API REST. La solución está dividida en dos proyectos:
 
